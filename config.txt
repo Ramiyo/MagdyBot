@@ -1,0 +1,6 @@
+owner=508282392407179265
+prefix=M
+game=Hi !
+stayinchannel=true
+songinstatus=false
+token=NTIzOTUzNTgzNDQwMzk2Mjkw.XO9keQ.95liv1LHfhOd1KujtU7AGfeC9t0
